@@ -1,1 +1,1 @@
-This portfolio is dedicated to dashboards I developed inspired by real-world projects I've been doing on Looker Studio as a Data & BI Analyst freelancer. Intended to focus on design and data analysis through dataviz.
+This portfolio is dedicated to dashboards I developed inspired by current or past professional experiences.
