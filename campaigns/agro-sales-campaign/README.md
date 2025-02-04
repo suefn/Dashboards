@@ -1,12 +1,11 @@
 ## Context
-- 2021 is the year in which the client started receiving services from the company. Among them: dashboards, marketing strategies and development of sales campaigns.
-- Analysis developed based on data collected between 2020 and 2024.
-- It basically includes among the parameters, revenue, investment, volume sold and average price, in addition to segmentations.
+- The client intended to mobilize sales campaigns with us and we took the opportunity to propose a package that also included campaign performance monitoring.
+- Analysis based on data from the current year (so that when the year ends, monitoring starts again).
+- Focused mainly on product, salespeople, quantity sold and revenue as parameters.
+
 
 ## Objectives
-- Have a year-over-year view of sales performance.
-- Analyze the impact of the services delivered by the company on the performance results achieved by the customer.
+- Monitor the progress of the campaign from January 1 to December 31, which includes monitoring how much of the goal is being met and how salespeople are performing (for the purpose of rewarding them at the end of the year).
+- In addition to analyzing which products perform best and which stores excelled in revenue and target as well.
 
-**[Dashboard](https://github.com/suefn/Dashboards/blob/main/campaigns/agro-sales-campaign/Strategic%20Analysis.pdf)**
-
-
+**[Dashboard](https://github.com/suefn/Dashboards/blob/main/campaigns/agro-sales-campaign/Seguimiento%20de%20Ventas.pdf)**
