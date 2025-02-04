@@ -7,4 +7,4 @@
 - Gradual and long-term monitoring of sales, purchase frequency, and orders.
 - Performance comparisons in relation to the previous year to observe growth.
 
-**[Dashboard](https://github.com/suefn/Dashboards/blob/main/an%C3%A1lises-comparativas/hist%C3%B3rico-vendas/Historial%20de%20Ventas%20Comparativo.pdf)**
+**[Dashboard](https://github.com/suefn/Dashboards/blob/main/comparative/agro-sales-comparative-analysis/Historial%20de%20Ventas%20Comparativo.pdf)**
